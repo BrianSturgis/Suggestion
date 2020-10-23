@@ -10,10 +10,4 @@ $(document).ready(function() {
     let drink = $("#question5").val();
     console.log(drink)
 
-
-
-    event.preventDefault();
-    event.preventDefault();
-
-    });
 });
