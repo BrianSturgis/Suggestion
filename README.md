@@ -37,5 +37,4 @@ _Please contact sturujisu@gmail.com for more info or to contribute_
 ### License
 
 
-
 Copyright (c) 2020 **_Brian Sturgis_**

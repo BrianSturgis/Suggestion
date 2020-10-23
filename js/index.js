@@ -1,7 +1,8 @@
 $(document).ready(function() {
-    let artmath = $("#question1").val();
+  $("form#question").submit(function(event)
+  let artmath = $("#question1").val();
     console.log(artmath)
-    let designtheory = $("#question2").val();
+  let designtheory = $("#question2").val();
     console.log(designtheory)
     let money = $("#question3").val();
     console.log(money)
@@ -11,3 +12,4 @@ $(document).ready(function() {
     console.log(drink)
 
 });
+
