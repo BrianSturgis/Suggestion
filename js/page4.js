@@ -1,9 +1,11 @@
-let bunnyName = "Flopsy";
+jQuery("h1").click(function() {
+  alert("This is a header.");
+});
 
-function hippityHoppity() {
-  alert(bunnyName);
-  bunnyName="Cottontail";
-}
+jQuery("p").click(function() {
+  alert("This is a paragraph.");
+});
 
-hippityHoppity();
-alert(bunnyName);
+jQuery("img").click(function() {
+  alert("This is an image.");
+});
