@@ -1,1 +1,0 @@
-const beverage = $("#beverage").val();
