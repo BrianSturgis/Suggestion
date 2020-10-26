@@ -5,5 +5,29 @@
 }
 
 body {
+  text-align: center;
   background-color: aqua;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  
+
+}
+#questions {
+  text-align: center;
+  color: white;
+}
+.card-answer1 {
+  display: none;
+  text-align: center;
+}
+
+.card-answer2 {
+  display: none;
+  text-align: center;
+}
+
+.card-answer3 {
+  display: none;
+  text-align: center;
 }
