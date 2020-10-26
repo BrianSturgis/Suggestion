@@ -19,7 +19,7 @@ $(document).ready(function(event) {
     alert("answer1");
     console.log("answer 1");
   
-   } else if (q2 == "art" || q1 == "design"){
+  } else if (q2 == "art" || q1 == "design"){
     alert("answer2");
     console.log("answer 1");
   
