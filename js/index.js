@@ -17,7 +17,7 @@ $(document).ready(function(event) {
 
   if (q5 == "ohhh nooo"){
     $("#rabits").toggle().show();
-
+    //have not had much luck with this slice //
   }
   else if (q2 == "theory" || q1 == "math"){
     $("#ruby").toggle().show();
