@@ -14,13 +14,16 @@ Note the application is run from and is represented in the index.html all other 
 ## Setup/Installation Requirements
 
 * repository location (https://github.com/BrianSturgis/Suggestion.git) _
-* open through termianl or clone editor_
-* use live server or drag and drop index.html in preffered browser of choice_
+* open through a git termianl or clone editor.
+* got to repo location.
+* using git commands clone to local repo
+* or click "download" and unpack on machine
+* open the index.html file to view the website
 
 
 ## Known Bugs
 
-_this is a build in progress an does not complete_
+_this is a build in progress an does not complete the answer using all of the questions asked but does require answers and gives warning if none are selected_
 
 ## Support and contact details
 
