@@ -10,7 +10,7 @@ $(document).ready(function(event) {
     var q4 = $("#question4").val();
     // console.log("q4")
     var q5 = $("#question5").val();
-    // console.log("q5")
+    // console.log(question5)
     var answer1 = $("*").val();
     // console.log(answer1)
     
@@ -19,22 +19,28 @@ $(document).ready(function(event) {
     $("#rabits").toggle().show();
     //have not had much luck with this slice //
   }
-  else if (q2 == "theory" || q1 == "math"){
+    else if (q2 == "theory" || q1 == "math"){
     $("#ruby").toggle().show();
     // console.log("answer 1");
   
-  } else (q1 == "art" || q2 == "design")
+  } 
+    else if (q1 == "art" || q2 == "design")
     $("#csharp").toggle().show();
     // console.log("answer 1");
   
-  // } else ("*")
-  // alert("please fill in all the answers");
-  // event.preventDefault();
+  } 
+    else if ("*")
+    alert("please fill in all the answers");
+    event.preventDefault();
 
-  // } else ("ohhh nooo") 
-  //   $("rabits").toggle().show();
+  } 
+    else ("ohhh nooo") 
+    $("rabits").toggle().show();
   
   event.preventDefault();
     
   });
+
+
+  
 });
