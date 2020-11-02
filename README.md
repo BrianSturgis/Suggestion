@@ -7,7 +7,7 @@
 
 ## Detailed Description
 
-This Web page aske you 5 questions in order to give a recomenmdation of a computer language that my find interesting.  The application is using branching and forms to achieve this.
+This application asks five questions in order to give an answer.  The application is using branching and forms to achieve this.
 
 Note the application is run from and is represented in the index.html 
 
