@@ -17,17 +17,17 @@ body {
   text-align: center;
   color:black;
 }
-.card-answer1 {
+#ruby {
   display: none;
   text-align: center;
 }
 
-.card-answer2 {
+#csharp {
   display: none;
   text-align: center;
 }
 
-.card-answer3 {
+#rabits {
   display: none;
   text-align: center;
 }
