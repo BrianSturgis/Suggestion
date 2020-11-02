@@ -15,7 +15,7 @@ body {
 }
 #questions {
   text-align: center;
-  color: white;
+  color:black;
 }
 .card-answer1 {
   display: none;

@@ -1,11 +1,9 @@
-# _Week 2 Friday project "suggestion"_
+# Week 2 Friday project "suggestion"
 
-#### _Programing language , 10/23/2020_
+#### Programing language , 10/23/2020
 
 #### By **Brian Sturgis**
 
-## Git pages location
-Copy and paste the following GitHub project link into your web browser's url bar and hit enter/return.  https://briansturgis.github.io/Suggestion/
 
 ## Detailed Description
 
