@@ -1,13 +1,13 @@
 # Week 2 Friday project "suggestion"
 
-#### Programing language , 10/23/2020
+##### HTML,CSS, and Javascript , 10/23/2020
 
 #### By **Brian Sturgis**
 
 
 ## Detailed Description
 
-This application asks five questions in order to give an answer.  The application is using branching and forms to achieve this.
+This application asks five questions in order to give an answer.  The application is using branching and forms to achieve this.  Simply answer the questions and press the "click Here" button.
 
 Note the application is run from and is represented in the index.html 
 
@@ -21,7 +21,7 @@ Note the application is run from and is represented in the index.html
 The project should automatically launch using your default application(s).
 
 ## Known Bugs
--  having an issue gettinfg previous results to hide
+-  removed large library off un needed bootstrap files but recieved and error in console askin for the bootstrap.css,map file so i placed it in just to keep and clear console and not drive me crazy
 -  known issue with questions and answers not making sense
 
 ## Support and contact details
