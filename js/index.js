@@ -19,6 +19,6 @@ $("form#questions").submit(function(event){
     $("#csharp").show();
   } else if (total >= 5) {
     $("#rabits").show();
-  } else (alert("please answer all of the questions"));
+  } else (alert("come on be honest and answer the questions a little better than than that"));
 });
 });
