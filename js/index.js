@@ -15,13 +15,12 @@ $("form#questions").submit(function(event){
   let rabitts = $("#question5").val();
   let total = totalValue (mathart, designtheory, money, job, rabitts);
 
-  
   if (total >= 10){
     $("#ruby").show();
   } else if (total >= 8) {
     $("#csharp").show();
-  } else if (total >= 5){
-    $("#csharp").show();
+  } else if (total >= 5) {
+    $("#rabits").show();
   } else (alert("please answer all of the questions"));
 
 });

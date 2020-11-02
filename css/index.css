@@ -16,6 +16,7 @@ body {
 #questions {
   text-align: center;
   color:black;
+  font-family: 'Orbitron', sans-serif;
 }
 #ruby {
   display: none;
@@ -30,4 +31,7 @@ body {
 #rabits {
   display: none;
   text-align: center;
+}
+h1 {
+  font-family: 'Orbitron', sans-serif;
 }
