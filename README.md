@@ -21,8 +21,8 @@ Note the application is run from and is represented in the index.html
 The project should automatically launch using your default application(s).
 
 ## Known Bugs
--  removed large library off un needed bootstrap files but recieved and error in console askin for the bootstrap.css,map file so i placed it in just to keep and clear console and not drive me crazy
--  known issue with questions and answers not making sense
+-  removed large library off un needed bootstrap files but recieved and error in console that asks for the bootstrap.css,map file so i placed it in just to keep and clear console and not drive me crazy
+-  known issue with questions and answers not making sense.  
 
 ## Support and contact details
 sturujisu@gmail.com
