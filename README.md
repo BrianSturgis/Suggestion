@@ -12,7 +12,7 @@ This application asks five questions in order to give an answer.  The applicatio
 Note the application is run from and is represented in the index.html 
 
 ## Setup/Installation Requirements
-- repository location (https://github.com/BrianSturgis/BSportfolio)
+- repository location (https://github.com/BrianSturgis/Suggestion
 - open through a git termianl or clone editor.
 - got to repo location.
 - using git commands clone to local repo
