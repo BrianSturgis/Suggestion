@@ -23,5 +23,5 @@ $(document).ready(function(){
       $("#ruby").hide();
       $("#csharp").hide();
     } else (alert("come on be honest and answer the questions a little better than than that"));
-});
+  });
 });
